@@ -21,8 +21,8 @@ Após isto, será possível que consiga-se descobrir o valor da raiz de qualque 
 
 Utilizando a função cos(x)-x, aplicamos o método em linguagem C para gerar o número de interações e as raizes geradas pelo método. Após os cálculos feitos pelo computador, chegamos aos seguintes pontos:
 
-![Gráfico lin-lin dos pontos gerados pelo programa](pflin-lin.pdf)
+![Gráfico lin-lin dos pontos gerados pelo programa](pflin-lin1.png)
 
-![Gráfico lin-log dos pontos gerados pelo programa](pflin-log.pdf)
+![Gráfico lin-log dos pontos gerados pelo programa](pflin-log1.png)
 
-![Gráfico log-log dos pontos gerados pelo programa](pflog-log.pdf)
+![Gráfico log-log dos pontos gerados pelo programa](pflog-log1.png)
