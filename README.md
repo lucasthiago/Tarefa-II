@@ -1,6 +1,6 @@
 # Tarefa II
 
-Tarefa solicitada no curso de Métodos Numéricos II, pelo professor "@thadeupenna"
+Tarefa solicitada no curso de Métodos Numéricos II, pelo professor @thadeupenna
 
 ## Método do Ponto Fixo
 
